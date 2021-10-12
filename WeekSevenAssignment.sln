@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekSevenAssignment", "WeekSevenAssignment\WeekSevenAssignment.csproj", "{CE851F13-B4E9-4939-BB67-4CDB235C1148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginValidation", "LoginValidation\LoginValidation.csproj", "{A49353F3-94EA-46F8-9B26-2DB790A98730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomLetter", "RandomLetter\RandomLetter.csproj", "{C5947E55-1C0A-4EC3-B883-4B18DE5C6365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNameReverse", "FirstNameReverse\FirstNameReverse.csproj", "{AA04C771-E890-4A4F-967C-AE174564E491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeReplace", "CakeReplace\CakeReplace.csproj", "{50635720-54FE-4CED-B201-47E4B7C7FEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullNameInitials", "FullNameInitials\FullNameInitials.csproj", "{CBF68BE3-E0CE-4D25-8FC2-8B6CB8F18140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSong", "DuckSong\DuckSong.csproj", "{DE6245A6-7872-4FA4-845A-4816EB3D0159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE851F13-B4E9-4939-BB67-4CDB235C1148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE851F13-B4E9-4939-BB67-4CDB235C1148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE851F13-B4E9-4939-BB67-4CDB235C1148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE851F13-B4E9-4939-BB67-4CDB235C1148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49353F3-94EA-46F8-9B26-2DB790A98730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49353F3-94EA-46F8-9B26-2DB790A98730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49353F3-94EA-46F8-9B26-2DB790A98730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49353F3-94EA-46F8-9B26-2DB790A98730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5947E55-1C0A-4EC3-B883-4B18DE5C6365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5947E55-1C0A-4EC3-B883-4B18DE5C6365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5947E55-1C0A-4EC3-B883-4B18DE5C6365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5947E55-1C0A-4EC3-B883-4B18DE5C6365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA04C771-E890-4A4F-967C-AE174564E491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA04C771-E890-4A4F-967C-AE174564E491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA04C771-E890-4A4F-967C-AE174564E491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA04C771-E890-4A4F-967C-AE174564E491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50635720-54FE-4CED-B201-47E4B7C7FEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50635720-54FE-4CED-B201-47E4B7C7FEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50635720-54FE-4CED-B201-47E4B7C7FEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50635720-54FE-4CED-B201-47E4B7C7FEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF68BE3-E0CE-4D25-8FC2-8B6CB8F18140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF68BE3-E0CE-4D25-8FC2-8B6CB8F18140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF68BE3-E0CE-4D25-8FC2-8B6CB8F18140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF68BE3-E0CE-4D25-8FC2-8B6CB8F18140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6245A6-7872-4FA4-845A-4816EB3D0159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6245A6-7872-4FA4-845A-4816EB3D0159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6245A6-7872-4FA4-845A-4816EB3D0159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6245A6-7872-4FA4-845A-4816EB3D0159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC7DC18-AE85-4BA7-918F-F68942A71A0D}
+	EndGlobalSection
+EndGlobal
